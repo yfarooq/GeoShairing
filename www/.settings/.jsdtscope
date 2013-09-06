@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="plugins/org.apache.cordova.core.device-motion/www/|plugins/org.apache.cordova.core.camera/www/|plugins/org.apache.cordova.core.file/www/ios/|spec/|plugins/org.apache.cordova.core.splashscreen/www/|spec/lib/jasmine-1.2.0/|plugins/org.apache.cordova.core.battery-status/www/|plugins/org.apache.cordova.core.camera/www/ios/|plugins/org.apache.cordova.core.AudioHandler/www/|plugins/org.apache.cordova.core.media-capture/www/|plugins/org.apache.cordova.core.device-orientation/www/|plugins/org.apache.cordova.core.console/www/|plugins/org.apache.cordova.core.globalization/www/|plugins/org.apache.cordova.core.contacts/www/ios/|plugins/org.apache.cordova.core.network-information/www/|plugins/org.apache.cordova.core.inappbrowser/www/|plugins/org.apache.cordova.core.dialogs/www/|js/|plugins/org.apache.cordova.core.contacts/www/|plugins/org.apache.cordova.core.geolocation/www/|plugins/org.apache.cordova.core.file-transfer/www/|plugins/org.apache.cordova.core.device/www/|plugins/org.apache.cordova.core.file/www/|plugins/org.apache.cordova.core.vibration/www/" kind="src" path=""/>
+	<classpathentry kind="src" path="js"/>
+	<classpathentry kind="src" path="plugins/org.apache.cordova.core.AudioHandler/www"/>
+	<classpathentry kind="src" path="plugins/org.apache.cordova.core.battery-status/www"/>
+	<classpathentry excluding="ios/" kind="src" path="plugins/org.apache.cordova.core.camera/www"/>
+	<classpathentry kind="src" path="plugins/org.apache.cordova.core.camera/www/ios"/>
+	<classpathentry kind="src" path="plugins/org.apache.cordova.core.console/www"/>
+	<classpathentry excluding="ios/" kind="src" path="plugins/org.apache.cordova.core.contacts/www"/>
+	<classpathentry kind="src" path="plugins/org.apache.cordova.core.contacts/www/ios"/>
+	<classpathentry kind="src" path="plugins/org.apache.cordova.core.device-motion/www"/>
+	<classpathentry kind="src" path="plugins/org.apache.cordova.core.device-orientation/www"/>
+	<classpathentry kind="src" path="plugins/org.apache.cordova.core.device/www"/>
+	<classpathentry kind="src" path="plugins/org.apache.cordova.core.dialogs/www"/>
+	<classpathentry kind="src" path="plugins/org.apache.cordova.core.file-transfer/www"/>
+	<classpathentry excluding="ios/" kind="src" path="plugins/org.apache.cordova.core.file/www"/>
+	<classpathentry kind="src" path="plugins/org.apache.cordova.core.file/www/ios"/>
+	<classpathentry kind="src" path="plugins/org.apache.cordova.core.geolocation/www"/>
+	<classpathentry kind="src" path="plugins/org.apache.cordova.core.globalization/www"/>
+	<classpathentry kind="src" path="plugins/org.apache.cordova.core.inappbrowser/www"/>
+	<classpathentry kind="src" path="plugins/org.apache.cordova.core.media-capture/www"/>
+	<classpathentry kind="src" path="plugins/org.apache.cordova.core.network-information/www"/>
+	<classpathentry kind="src" path="plugins/org.apache.cordova.core.splashscreen/www"/>
+	<classpathentry kind="src" path="plugins/org.apache.cordova.core.vibration/www"/>
+	<classpathentry excluding="lib/jasmine-1.2.0/" kind="src" path="spec"/>
+	<classpathentry kind="src" path="spec/lib/jasmine-1.2.0"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

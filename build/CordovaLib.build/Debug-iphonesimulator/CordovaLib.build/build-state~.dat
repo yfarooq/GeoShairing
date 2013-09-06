@@ -1,0 +1,1250 @@
+TCordovaLib
+v6
+r1
+cCheck dependencies
+cCpHeader Classes/CDVInvokedUrlCommand.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h
+cCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h
+cCpHeader Classes/NSData+Base64.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSData+Base64.h
+cCpHeader Classes/CDVDebug.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVDebug.h
+cCpHeader Classes/NSDictionary+Extensions.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h
+cCpHeader Classes/CDVPlugin.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVPlugin.h
+cCpHeader Classes/CDVPluginResult.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVPluginResult.h
+cCpHeader Classes/CDVWhitelist.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVWhitelist.h
+cCpHeader Classes/CDVURLProtocol.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVURLProtocol.h
+cCpHeader Classes/CDVViewController.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVViewController.h
+cCpHeader Classes/CDVCommandDelegate.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVCommandDelegate.h
+cCpHeader Classes/CDV.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDV.h
+cCpHeader Classes/CDVAvailability.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVAvailability.h
+cCpHeader Classes/CDVLocalStorage.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVLocalStorage.h
+cCpHeader Classes/UIDevice+Extensions.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/UIDevice+Extensions.h
+cCpHeader Classes/NSArray+Comparisons.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSArray+Comparisons.h
+cCpHeader Classes/CDVEcho.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVEcho.h
+cCpHeader Classes/CDVCommandQueue.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVCommandQueue.h
+cCpHeader Classes/CDVCommandDelegateImpl.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h
+cCpHeader Classes/CDVShared.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVShared.h
+cCpHeader Classes/CDVScreenOrientationDelegate.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h
+cCpHeader Classes/CDVConfigParser.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVConfigParser.h
+cCpHeader Classes/CDVJSON.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVJSON.h
+cCpHeader Classes/CDVWebViewDelegate.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h
+cCpHeader Classes/CDVUserAgentUtil.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h
+cCpHeader Classes/CDVTimer.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVTimer.h
+cProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVEcho.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/Yama/GeoSharing/platforms/ios/build/libCordova.a normal i386
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c0000000051D7BE3F0000000000000176
+t1373093439
+s374
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c0000000051D851DE00000000000003B5
+t1373131230
+s949
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000051D8522000000000000001A0
+t1373131296
+s416
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDV.h
+c000000005229EB720000000000000516
+t1378478962
+s1302
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+c000000005229EB720000000000000C65
+t1378478962
+s3173
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+c000000005229EB7200000000000008BA
+t1378478962
+s2234
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+c000000005229EB720000000000000473
+t1378478962
+s1139
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+c000000005229EB72000000000000126E
+t1378478962
+s4718
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+c000000005229EB720000000000000501
+t1378478962
+s1281
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+c000000005229EB72000000000000152E
+t1378478962
+s5422
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+c000000005229EB7200000000000004CB
+t1378478962
+s1227
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+c000000005229EB720000000000000E0D
+t1378478962
+s3597
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVDebug.h
+c000000005229EB720000000000000401
+t1378478962
+s1025
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVEcho.h
+c000000005229EB720000000000000342
+t1378478962
+s834
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVEcho.m
+c000000005229EB7200000000000008DA
+t1378478962
+s2266
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+c000000005229EB7200000000000007E6
+t1378478962
+s2022
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+c000000005229EB720000000000000DDE
+t1378478962
+s3550
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVJSON.h
+c000000005229EB7200000000000003DA
+t1378478962
+s986
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVJSON.m
+c000000005229EB72000000000000098E
+t1378478962
+s2446
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+c000000005229EB7200000000000006CF
+t1378478962
+s1743
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+c000000005229EB720000000000004C6C
+t1378478962
+s19564
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+c000000005229EB720000000000000892
+t1378478962
+s2194
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+c000000005229EB7200000000000016AE
+t1378478962
+s5806
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+c000000005229EB720000000000000C13
+t1378478962
+s3091
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+c000000005229EB720000000000001B29
+t1378478962
+s6953
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+c000000005229EB720000000000000408
+t1378478962
+s1032
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVShared.h
+c000000005229EB7200000000000003E6
+t1378478962
+s998
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVShared.m
+c000000005229EB7200000000000006B6
+t1378478962
+s1718
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVTimer.h
+c000000005229EB72000000000000038D
+t1378478962
+s909
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVTimer.m
+c000000005229EB720000000000000AA2
+t1378478962
+s2722
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+c000000005229EB72000000000000041C
+t1378478962
+s1052
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+c000000005229EB720000000000002514
+t1378478962
+s9492
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+c000000005229EB720000000000000421
+t1378478962
+s1057
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+c000000005229EB7200000000000012A2
+t1378478962
+s4770
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVViewController.h
+c000000005229EB720000000000000ACC
+t1378478962
+s2764
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVViewController.m
+c000000005229EB720000000000008568
+t1378478962
+s34152
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+c000000005229EB7200000000000005A2
+t1378478962
+s1442
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+c000000005229EB7200000000000037C6
+t1378478962
+s14278
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+c000000005229EB7200000000000004B4
+t1378478962
+s1204
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+c000000005229EB720000000000002216
+t1378478962
+s8726
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+c000000005229EB720000000000000392
+t1378478962
+s914
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+c000000005229EB7200000000000004D8
+t1378478962
+s1240
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+c000000005229EB72000000000000037D
+t1378478962
+s893
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+c000000005229EB7200000000000022CC
+t1378478962
+s8908
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+c000000005229EB7200000000000005DA
+t1378478962
+s1498
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+c000000005229EB720000000000001059
+t1378478962
+s4185
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+c000000005229EB7200000000000003A0
+t1378478962
+s928
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+c000000005229EB720000000000000584
+t1378478962
+s1412
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+c000000005229EB720000000000000476
+t1378478962
+s1142
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+c000000005229EB720000000000000620
+t1378478962
+s1568
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+c000000005229EB720000000000000346
+t1378478962
+s838
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+t1378478967
+s62972
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+t1378478967
+s59696
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+t1378478967
+s27016
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o
+t1378478967
+s48728
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+t1378478967
+s18684
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+t1378478967
+s10848
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+t1378478967
+s109328
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+t1378478967
+s59348
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+t1378478967
+s37204
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+t1378478967
+s9372
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+t1378478967
+s22920
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+t1378478967
+s71072
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+t1378478967
+s52536
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+t1378478968
+s165356
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+t1378478967
+s71140
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+t1378478967
+s31448
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList
+c000000005229EB760000000000000C2B
+t1378478966
+s3115
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+t1378478967
+s7448
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+t1378478967
+s11112
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+t1378478967
+s17820
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+t1378478967
+s6960
+
+N/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+t1378478967
+s9584
+
+N/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDV.h
+t2
+s0
+
+N/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVAvailability.h
+t2
+s0
+
+N/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVCommandDelegate.h
+t2
+s0
+
+N/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h
+t2
+s0
+
+N/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVCommandQueue.h
+t2
+s0
+
+N/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVConfigParser.h
+t2
+s0
+
+N/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVDebug.h
+t2
+s0
+
+N/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVEcho.h
+t2
+s0
+
+N/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h
+t2
+s0
+
+N/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVJSON.h
+t2
+s0
+
+N/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVLocalStorage.h
+t2
+s0
+
+N/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVPlugin.h
+t2
+s0
+
+N/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVPluginResult.h
+t2
+s0
+
+N/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h
+t2
+s0
+
+N/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVShared.h
+t2
+s0
+
+N/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVTimer.h
+t2
+s0
+
+N/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVURLProtocol.h
+t2
+s0
+
+N/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h
+t2
+s0
+
+N/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVViewController.h
+t2
+s0
+
+N/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h
+t2
+s0
+
+N/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVWhitelist.h
+t2
+s0
+
+N/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSArray+Comparisons.h
+t2
+s0
+
+N/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSData+Base64.h
+t2
+s0
+
+N/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h
+t2
+s0
+
+N/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h
+t2
+s0
+
+N/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/UIDevice+Extensions.h
+t2
+s0
+
+N/Users/Yama/GeoSharing/platforms/ios/build/libCordova.a
+t2
+s0
+
+N/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch.pch
+t1378478967
+s3185504
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies54a846f622dab741^41118bf622dab741^-94"warning: CODE_SIGN_ENTITLEMENTS specified without a valid Developer Signing Identity for iOS.1(21%IDEActivityLogMessage2@93"Warning: CODE_SIGN_ENTITLEMENTS specified without a valid Developer Signing Identity for iOS.-400171766#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#1#--18"Check dependencies36"51D3419C-E440-49EC-88F8-530497B1C366-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400171767.314740
+e400171767.736441
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+x/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m216"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbbb550f722dab741^31d1bcf722dab741^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m0000000000000000^3585"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/build/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Yama/GeoSharing/platforms/ios/build -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.d --serialize-diagnostics /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.dia -c /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m -o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o36"F64AA579-4436-4D78-B9E1-E32BAA29AE3A-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400171767.198324
+e400171767.736617
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+x/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m202"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1de332f722dab741^0ad6bcf722dab741^---0#0#1#-19%DVTDocumentLocation2@89"file://localhost/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m0000000000000000^3543"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/build/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Yama/GeoSharing/platforms/ios/build -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.d --serialize-diagnostics /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.dia -c /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m -o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o36"49B9B284-2E2A-401E-98F8-A54DD2E2BFB9-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400171767.725254
+e400171767.792926
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+x/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVConfigParser.m202"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb3d1b9f722dab741^f0fccaf722dab741^---0#0#1#-19%DVTDocumentLocation2@89"file://localhost/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVConfigParser.m0000000000000000^3543"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/build/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Yama/GeoSharing/platforms/ios/build -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.d --serialize-diagnostics /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.dia -c /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVConfigParser.m -o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o36"BA6A4B75-2343-4FE6-86F4-675DBF6289B3-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVEcho.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400171767.198298
+e400171767.726527
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o
+x/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVEcho.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVEcho.m
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVEcho.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVEcho.m186"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o Classes/CDVEcho.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler15e132f722dab741^48fdb9f722dab741^---0#0#1#-19%DVTDocumentLocation2@81"file://localhost/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVEcho.m0000000000000000^3495"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o Classes/CDVEcho.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/build/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Yama/GeoSharing/platforms/ios/build -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.d --serialize-diagnostics /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.dia -c /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVEcho.m -o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o36"5E6F9A2C-11D2-4906-923D-725F16ED009F-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400171767.073193
+e400171767.194310
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+x/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m212"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd2e412f722dab741^75cc31f722dab741^---0#0#1#-19%DVTDocumentLocation2@94"file://localhost/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m0000000000000000^3573"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/build/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Yama/GeoSharing/platforms/ios/build -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.d --serialize-diagnostics /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.dia -c /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m -o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o36"6343BBF2-B807-43AB-A636-41B5389E3E50-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400171767.730640
+e400171767.785566
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+x/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVJSON.m
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVJSON.m186"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler772fbbf722dab741^1e1bc9f722dab741^---0#0#1#-19%DVTDocumentLocation2@81"file://localhost/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVJSON.m0000000000000000^3495"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/build/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Yama/GeoSharing/platforms/ios/build -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.d --serialize-diagnostics /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.dia -c /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVJSON.m -o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o36"68F448A7-D202-45D2-8594-A76DDF922FFC-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400171767.197629
+e400171767.784006
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+x/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m202"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4dbd32f722dab741^bec0c8f722dab741^---0#0#1#-19%DVTDocumentLocation2@89"file://localhost/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m0000000000000000^3543"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/build/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Yama/GeoSharing/platforms/ios/build -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.d --serialize-diagnostics /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.dia -c /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m -o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o36"44209AD3-34A1-4D64-9E99-E550CCB3ADCA-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400171767.073232
+e400171767.731162
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+x/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPlugin.m190"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4fe712f722dab741^7e35bbf722dab741^---0#0#1#-19%DVTDocumentLocation2@83"file://localhost/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPlugin.m0000000000000000^3507"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/build/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Yama/GeoSharing/platforms/ios/build -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.d --serialize-diagnostics /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.dia -c /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPlugin.m -o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o36"BA7F3AE9-8E20-456D-ADE1-22ED456F60FF-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400171767.073223
+e400171767.195845
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+x/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPluginResult.m202"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb0e412f722dab741^7a1832f722dab741^---0#0#1#-19%DVTDocumentLocation2@89"file://localhost/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPluginResult.m0000000000000000^3543"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/build/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Yama/GeoSharing/platforms/ios/build -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.d --serialize-diagnostics /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.dia -c /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPluginResult.m -o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o36"EB4A73B3-71C9-4129-B5D9-796FB543E2BB-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400171767.769504
+e400171767.879719
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+x/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVShared.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVShared.m
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVShared.m190"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler952ac5f722dab741^df34e1f722dab741^---0#0#1#-19%DVTDocumentLocation2@83"file://localhost/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVShared.m0000000000000000^3507"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/build/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Yama/GeoSharing/platforms/ios/build -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.d --serialize-diagnostics /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.dia -c /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVShared.m -o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o36"DC6DC0B5-DA47-4C90-B04E-6D2E87652FE5-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400171767.740560
+e400171767.795541
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+x/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVTimer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVTimer.m
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVTimer.m188"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler52b5bdf722dab741^09a9cbf722dab741^---0#0#1#-19%DVTDocumentLocation2@82"file://localhost/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVTimer.m0000000000000000^3501"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/build/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Yama/GeoSharing/platforms/ios/build -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.d --serialize-diagnostics /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.dia -c /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVTimer.m -o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o36"F735D131-E02D-4D5D-A6EE-3B509DD64DC0-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400171767.074298
+e400171767.764867
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+x/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m200"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler541c13f722dab741^33e1c3f722dab741^---0#0#1#-19%DVTDocumentLocation2@88"file://localhost/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m0000000000000000^3537"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/build/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Yama/GeoSharing/platforms/ios/build -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.d --serialize-diagnostics /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.dia -c /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m -o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o36"BE497CE7-CDAA-4F6E-AAA5-69DE5DE0CFF8-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400171767.735001
+e400171767.921883
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+x/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m204"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc24fbcf722dab741^7500ecf722dab741^---0#0#1#-19%DVTDocumentLocation2@90"file://localhost/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m0000000000000000^3549"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/build/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Yama/GeoSharing/platforms/ios/build -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.d --serialize-diagnostics /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.dia -c /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m -o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o36"C4275475-5111-4F1A-AEED-E369F1FE2DD1-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400171767.197343
+e400171768.406383
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+x/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVViewController.m
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVViewController.m206"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7aa732f722dab741^bf0a68f822dab741^---0#0#1#-19%DVTDocumentLocation2@91"file://localhost/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVViewController.m0000000000000000^3555"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/build/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Yama/GeoSharing/platforms/ios/build -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.d --serialize-diagnostics /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.dia -c /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVViewController.m -o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o36"D0395CAF-FED2-4064-B1B3-9F6A1CE77E89-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400171767.740451
+e400171767.922341
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+x/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m208"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8ab0bdf722dab741^ac1eecf722dab741^---0#0#1#-19%DVTDocumentLocation2@92"file://localhost/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m0000000000000000^3561"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/build/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Yama/GeoSharing/platforms/ios/build -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.d --serialize-diagnostics /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.dia -c /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m -o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o36"32EB7AE1-A369-41D3-99A6-8D3F643B3684-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400171767.074286
+e400171767.195615
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+x/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWhitelist.m196"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7a1713f722dab741^a0fc31f722dab741^---0#0#1#-19%DVTDocumentLocation2@86"file://localhost/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWhitelist.m0000000000000000^3525"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/build/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Yama/GeoSharing/platforms/ios/build -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.d --serialize-diagnostics /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.dia -c /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWhitelist.m -o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o36"DC7112D9-1D06-4467-A265-20ECC978F696-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400171767.197749
+e400171767.311468
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+x/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m210"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler51bc32f722dab741^65c64ff722dab741^---0#0#1#-19%DVTDocumentLocation2@93"file://localhost/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m0000000000000000^3567"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/build/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Yama/GeoSharing/platforms/ios/build -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.d --serialize-diagnostics /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.dia -c /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m -o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o36"3A9B711B-AF73-44AA-842A-A44F983D0574-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400171767.073211
+e400171767.195213
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+x/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSData+Base64.m198"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdcda12f722dab741^74ef31f722dab741^---0#0#1#-19%DVTDocumentLocation2@87"file://localhost/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSData+Base64.m0000000000000000^3531"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/build/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Yama/GeoSharing/platforms/ios/build -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.d --serialize-diagnostics /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.dia -c /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSData+Base64.m -o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o36"4B4BC9D5-7409-4C40-AF9C-E31C2CD80642-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400171767.073189
+e400171767.194234
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+x/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m218"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler23da12f722dab741^9bc731f722dab741^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m0000000000000000^3591"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/build/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Yama/GeoSharing/platforms/ios/build -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.d --serialize-diagnostics /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.dia -c /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m -o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o36"2829C4CC-D925-4559-8BFD-B985B6E64D32-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400171767.074283
+e400171767.193251
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+x/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m230"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler161713f722dab741^427731f722dab741^---0#0#1#-19%DVTDocumentLocation2@103"file://localhost/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m0000000000000000^3627"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/build/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Yama/GeoSharing/platforms/ios/build -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.d --serialize-diagnostics /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.dia -c /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m -o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o36"68D991F1-4FD8-4C79-BEF4-56930AA2B56D-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400171767.197697
+e400171767.721918
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+x/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m210"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler12bf32f722dab741^31d1b8f722dab741^---0#0#1#-19%DVTDocumentLocation2@93"file://localhost/Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m0000000000000000^3567"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/build/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Yama/GeoSharing/platforms/ios/build -DDEBUG -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.d --serialize-diagnostics /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.dia -c /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m -o /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o36"5B8E1DB4-815B-4B21-8A67-E1B2FD6078D7-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCpHeader Classes/CDV.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDV.h
+s400171766.557809
+e400171766.565626
+r1
+xCpHeader
+xClasses/CDV.h
+x/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDV.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDV.h87"CpHeader Classes/CDV.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDV.h01de8ef622dab741^75cd90f622dab741^---0#0#1#-19%DVTDocumentLocation2@80"file://localhost/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDV.h00386c59ddffdf42^596"CpHeader Classes/CDV.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDV.h    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDV.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova36"3CFD917C-A393-4C99-92D6-446A015327E6-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCpHeader Classes/CDVAvailability.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVAvailability.h
+s400171766.558904
+e400171766.566497
+r1
+xCpHeader
+xClasses/CDVAvailability.h
+x/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVAvailability.h111"CpHeader Classes/CDVAvailability.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVAvailability.hfb248ff622dab741^030691f622dab741^---0#0#1#-19%DVTDocumentLocation2@92"file://localhost/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVAvailability.h00386c59ddffdf42^632"CpHeader Classes/CDVAvailability.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVAvailability.h    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVAvailability.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova36"E705B082-61D8-4830-96E1-2F2E0882835A-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCpHeader Classes/CDVCommandDelegate.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVCommandDelegate.h
+s400171766.556051
+e400171766.564463
+r1
+xCpHeader
+xClasses/CDVCommandDelegate.h
+x/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVCommandDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVCommandDelegate.h117"CpHeader Classes/CDVCommandDelegate.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVCommandDelegate.h51678ef622dab741^b68090f622dab741^---0#0#1#-19%DVTDocumentLocation2@95"file://localhost/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVCommandDelegate.h00386c59ddffdf42^641"CpHeader Classes/CDVCommandDelegate.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVCommandDelegate.h    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova36"E0FE16F5-54E3-4940-912E-5AC518F46C75-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCpHeader Classes/CDVCommandDelegateImpl.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h
+s400171766.564972
+e400171766.572773
+r1
+xCpHeader
+xClasses/CDVCommandDelegateImpl.h
+x/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h125"CpHeader Classes/CDVCommandDelegateImpl.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h18b490f622dab741^3ca292f622dab741^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h00386c59ddffdf42^653"CpHeader Classes/CDVCommandDelegateImpl.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova36"6E5F67AB-1624-4D0A-A631-2BCAD4261D06-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCpHeader Classes/CDVCommandQueue.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVCommandQueue.h
+s400171766.564885
+e400171766.571858
+r1
+xCpHeader
+xClasses/CDVCommandQueue.h
+x/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVCommandQueue.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVCommandQueue.h111"CpHeader Classes/CDVCommandQueue.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVCommandQueue.h11aa90f622dab741^cf6592f622dab741^---0#0#1#-19%DVTDocumentLocation2@92"file://localhost/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVCommandQueue.h00386c59ddffdf42^632"CpHeader Classes/CDVCommandQueue.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVCommandQueue.h    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova36"10E19F62-0F58-44D6-B426-D656E3705D01-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCpHeader Classes/CDVConfigParser.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVConfigParser.h
+s400171766.568622
+e400171766.576116
+r1
+xCpHeader
+xClasses/CDVConfigParser.h
+x/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVConfigParser.h111"CpHeader Classes/CDVConfigParser.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVConfigParser.hd7a291f622dab741^cc7c93f622dab741^---0#0#1#-19%DVTDocumentLocation2@92"file://localhost/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVConfigParser.h00386c59ddffdf42^632"CpHeader Classes/CDVConfigParser.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVConfigParser.h    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVConfigParser.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova36"B1449171-FF6D-457A-A99A-E0C7045E3115-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCpHeader Classes/CDVDebug.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVDebug.h
+s400171766.547227
+e400171766.558700
+r1
+xCpHeader
+xClasses/CDVDebug.h
+x/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVDebug.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVDebug.h97"CpHeader Classes/CDVDebug.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVDebug.h65a68cf622dab741^8e078ff622dab741^---0#0#1#-19%DVTDocumentLocation2@85"file://localhost/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVDebug.h00386c59ddffdf42^611"CpHeader Classes/CDVDebug.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVDebug.h    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVDebug.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova36"E2E2FE60-DA75-4984-A5DC-93838CF787F1-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCpHeader Classes/CDVEcho.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVEcho.h
+s400171766.562413
+e400171766.570728
+r1
+xCpHeader
+xClasses/CDVEcho.h
+x/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVEcho.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVEcho.h95"CpHeader Classes/CDVEcho.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVEcho.hb70c90f622dab741^151c92f622dab741^---0#0#1#-19%DVTDocumentLocation2@84"file://localhost/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVEcho.h00386c59ddffdf42^608"CpHeader Classes/CDVEcho.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVEcho.h    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVEcho.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova36"2558EA68-5957-4C52-98CD-F511DBE664DD-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCpHeader Classes/CDVInvokedUrlCommand.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h
+s400171766.547242
+e400171766.553598
+r1
+xCpHeader
+xClasses/CDVInvokedUrlCommand.h
+x/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h121"CpHeader Classes/CDVInvokedUrlCommand.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h1ea78cf622dab741^feb88df622dab741^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h00386c59ddffdf42^647"CpHeader Classes/CDVInvokedUrlCommand.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova36"1F258961-B5FB-497A-9102-C7A218C636F3-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCpHeader Classes/CDVJSON.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVJSON.h
+s400171766.569736
+e400171766.577333
+r1
+xCpHeader
+xClasses/CDVJSON.h
+x/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVJSON.h95"CpHeader Classes/CDVJSON.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVJSON.h42eb91f622dab741^c8ce93f622dab741^---0#0#1#-19%DVTDocumentLocation2@84"file://localhost/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVJSON.h00386c59ddffdf42^608"CpHeader Classes/CDVJSON.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVJSON.h    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVJSON.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova36"5D3A0EDE-3E01-476A-AC36-DC7B5A7EC4F8-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCpHeader Classes/CDVLocalStorage.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVLocalStorage.h
+s400171766.559053
+e400171766.567439
+r1
+xCpHeader
+xClasses/CDVLocalStorage.h
+x/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVLocalStorage.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVLocalStorage.h111"CpHeader Classes/CDVLocalStorage.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVLocalStorage.h0b298ff622dab741^674491f622dab741^---0#0#1#-19%DVTDocumentLocation2@92"file://localhost/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVLocalStorage.h00386c59ddffdf42^632"CpHeader Classes/CDVLocalStorage.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVLocalStorage.h    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova36"DBB55C9C-71DD-4078-8B21-7C04B35F1D48-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCpHeader Classes/CDVPlugin.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVPlugin.h
+s400171766.547233
+e400171766.555620
+r1
+xCpHeader
+xClasses/CDVPlugin.h
+x/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVPlugin.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVPlugin.h99"CpHeader Classes/CDVPlugin.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVPlugin.hcaa68cf622dab741^c53d8ef622dab741^---0#0#1#-19%DVTDocumentLocation2@86"file://localhost/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVPlugin.h00602db2b3eadf42^614"CpHeader Classes/CDVPlugin.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVPlugin.h    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPlugin.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova36"8D1BB586-C8A1-46E1-8A71-D83B29E59165-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCpHeader Classes/CDVPluginResult.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVPluginResult.h
+s400171766.547237
+e400171766.559920
+r1
+xCpHeader
+xClasses/CDVPluginResult.h
+x/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVPluginResult.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVPluginResult.h111"CpHeader Classes/CDVPluginResult.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVPluginResult.h7aa58cf622dab741^82578ff622dab741^---0#0#1#-19%DVTDocumentLocation2@92"file://localhost/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVPluginResult.h00386c59ddffdf42^632"CpHeader Classes/CDVPluginResult.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVPluginResult.h    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVPluginResult.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova36"1289624A-9CCE-4937-A4CC-CF4EE9755DEA-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCpHeader Classes/CDVScreenOrientationDelegate.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h
+s400171766.566847
+e400171766.574813
+r1
+xCpHeader
+xClasses/CDVScreenOrientationDelegate.h
+x/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h137"CpHeader Classes/CDVScreenOrientationDelegate.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h282891f622dab741^782793f622dab741^---0#0#1#-19%DVTDocumentLocation2@105"file://localhost/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h00386c59ddffdf42^671"CpHeader Classes/CDVScreenOrientationDelegate.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova36"7B6F6726-218E-486C-A018-55C6D004B436-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCpHeader Classes/CDVShared.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVShared.h
+s400171766.566754
+e400171766.573862
+r1
+xCpHeader
+xClasses/CDVShared.h
+x/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVShared.h99"CpHeader Classes/CDVShared.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVShared.h532291f622dab741^68e992f622dab741^---0#0#1#-19%DVTDocumentLocation2@86"file://localhost/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVShared.h00386c59ddffdf42^614"CpHeader Classes/CDVShared.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVShared.h    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVShared.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova36"198099AA-A9F3-46C1-B647-1ECF5C9FE799-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCpHeader Classes/CDVTimer.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVTimer.h
+s400171766.573025
+e400171766.580481
+r1
+xCpHeader
+xClasses/CDVTimer.h
+x/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVTimer.h97"CpHeader Classes/CDVTimer.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVTimer.h01c392f622dab741^209b94f622dab741^---0#0#1#-19%DVTDocumentLocation2@85"file://localhost/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVTimer.h00386c59ddffdf42^611"CpHeader Classes/CDVTimer.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVTimer.h    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVTimer.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova36"6511506F-7390-46BD-B67E-E9BCC738C7D2-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCpHeader Classes/CDVURLProtocol.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVURLProtocol.h
+s400171766.554853
+e400171766.562113
+r1
+xCpHeader
+xClasses/CDVURLProtocol.h
+x/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVURLProtocol.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVURLProtocol.h109"CpHeader Classes/CDVURLProtocol.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVURLProtocol.hff208ef622dab741^cde88ff622dab741^---0#0#1#-19%DVTDocumentLocation2@91"file://localhost/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVURLProtocol.h00386c59ddffdf42^629"CpHeader Classes/CDVURLProtocol.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVURLProtocol.h    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova36"E8002E7C-90BB-4F08-AEFB-174D13EF99EA-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCpHeader Classes/CDVUserAgentUtil.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h
+s400171766.571941
+e400171766.579893
+r1
+xCpHeader
+xClasses/CDVUserAgentUtil.h
+x/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h113"CpHeader Classes/CDVUserAgentUtil.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h607792f622dab741^647494f622dab741^---0#0#1#-19%DVTDocumentLocation2@93"file://localhost/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h00386c59ddffdf42^635"CpHeader Classes/CDVUserAgentUtil.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova36"42157ADF-E717-4A84-A8B8-1637899A00DE-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCpHeader Classes/CDVViewController.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVViewController.h
+s400171766.555925
+e400171766.563630
+r1
+xCpHeader
+xClasses/CDVViewController.h
+x/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVViewController.h115"CpHeader Classes/CDVViewController.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVViewController.hf2618ef622dab741^f14890f622dab741^---0#0#1#-19%DVTDocumentLocation2@94"file://localhost/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVViewController.h00386c59ddffdf42^638"CpHeader Classes/CDVViewController.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVViewController.h    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVViewController.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova36"FDF6BC3D-98C8-46AF-9159-BA04805D4A5E-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCpHeader Classes/CDVWebViewDelegate.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h
+s400171766.570908
+e400171766.578454
+r1
+xCpHeader
+xClasses/CDVWebViewDelegate.h
+x/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h117"CpHeader Classes/CDVWebViewDelegate.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVWebViewDelegate.hdf3792f622dab741^7b1694f622dab741^---0#0#1#-19%DVTDocumentLocation2@95"file://localhost/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h00386c59ddffdf42^641"CpHeader Classes/CDVWebViewDelegate.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova36"48907E49-BACA-4D41-B4CB-CA0C300F7D46-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCpHeader Classes/CDVWhitelist.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVWhitelist.h
+s400171766.547288
+e400171766.554739
+r1
+xCpHeader
+xClasses/CDVWhitelist.h
+x/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVWhitelist.h105"CpHeader Classes/CDVWhitelist.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVWhitelist.h7aa58cf622dab741^b4038ef622dab741^---0#0#1#-19%DVTDocumentLocation2@89"file://localhost/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVWhitelist.h00386c59ddffdf42^623"CpHeader Classes/CDVWhitelist.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/CDVWhitelist.h    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/CDVWhitelist.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova36"E472F5EF-74A6-45BC-9C09-AE26EEA0E7C4-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCpHeader Classes/NSArray+Comparisons.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSArray+Comparisons.h
+s400171766.562318
+e400171766.569605
+r1
+xCpHeader
+xClasses/NSArray+Comparisons.h
+x/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSArray+Comparisons.h119"CpHeader Classes/NSArray+Comparisons.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSArray+Comparisons.h030790f622dab741^4ad291f622dab741^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSArray+Comparisons.h00386c59ddffdf42^644"CpHeader Classes/NSArray+Comparisons.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSArray+Comparisons.h    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova36"C0C30C91-B0FB-46A3-8230-6992E8E39F5A-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCpHeader Classes/NSData+Base64.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSData+Base64.h
+s400171766.547224
+e400171766.557741
+r1
+xCpHeader
+xClasses/NSData+Base64.h
+x/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSData+Base64.h107"CpHeader Classes/NSData+Base64.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSData+Base64.hcea58cf622dab741^5cc98ef622dab741^---0#0#1#-19%DVTDocumentLocation2@90"file://localhost/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSData+Base64.h00386c59ddffdf42^626"CpHeader Classes/NSData+Base64.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSData+Base64.h    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSData+Base64.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova36"150C2115-5DA6-468F-BF5A-6407A3FEC040-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCpHeader Classes/NSDictionary+Extensions.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h
+s400171766.547232
+e400171766.561030
+r1
+xCpHeader
+xClasses/NSDictionary+Extensions.h
+x/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h127"CpHeader Classes/NSDictionary+Extensions.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h11a68cf622dab741^40a08ff622dab741^---0#0#1#-19%DVTDocumentLocation2@100"file://localhost/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h009438b6b3eadf42^656"CpHeader Classes/NSDictionary+Extensions.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova36"0C62E088-E1A7-4F92-B01B-49DC0F2A388A-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h
+s400171766.547224
+e400171766.556592
+r1
+xCpHeader
+xClasses/NSMutableArray+QueueAdditions.h
+x/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h139"CpHeader Classes/NSMutableArray+QueueAdditions.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h50a78cf622dab741^787d8ef622dab741^---0#0#1#-19%DVTDocumentLocation2@106"file://localhost/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h00dcbfbbb3eadf42^674"CpHeader Classes/NSMutableArray+QueueAdditions.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova36"940E4EA0-B4A6-42AB-920A-4E94DEF9EE2E-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CCpHeader Classes/UIDevice+Extensions.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/UIDevice+Extensions.h
+s400171766.561201
+e400171766.568496
+r1
+xCpHeader
+xClasses/UIDevice+Extensions.h
+x/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/UIDevice+Extensions.h119"CpHeader Classes/UIDevice+Extensions.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/UIDevice+Extensions.h0ebf8ff622dab741^6a8991f622dab741^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/UIDevice+Extensions.h00386c59ddffdf42^644"CpHeader Classes/UIDevice+Extensions.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova/UIDevice+Extensions.h    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Yama/GeoSharing/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h /Users/Yama/GeoSharing/platforms/ios/build/include/Cordova36"7DF812BE-6326-4B46-BCF2-5718FDA073FB-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CLibtool /Users/Yama/GeoSharing/platforms/ios/build/libCordova.a normal i386
+s400171768.417517
+e400171768.478340
+r1
+xLibtool
+x/Users/Yama/GeoSharing/platforms/ios/build/libCordova.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Libtool /Users/Yama/GeoSharing/platforms/ios/build/libCordova.a normal i38675"Libtool /Users/Yama/GeoSharing/platforms/ios/build/libCordova.a normal i38617f46af822dab741^f3747af822dab741^---0#0#1#--919"Libtool /Users/Yama/GeoSharing/platforms/ios/build/libCordova.a normal i386    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/Yama/GeoSharing/platforms/ios/build -filelist /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList -o /Users/Yama/GeoSharing/platforms/ios/build/libCordova.a36"9EA131EA-8182-4564-962C-D881179FDFD7-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
+CProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400171766.589989
+e400171767.063692
+r1
+xProcessPCH
+x/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch.pch
+xCordovaLib_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Yama/GeoSharing/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile CordovaLib_Prefix.pch291"ProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera52c97f622dab741^a94d10f722dab741^---0#0#1#-19%DVTDocumentLocation2@85"file://localhost/Users/Yama/GeoSharing/platforms/ios/CordovaLib/CordovaLib_Prefix.pch0000000000000000^3564"ProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yama/GeoSharing/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Yama/GeoSharing/platforms/ios/build/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Yama/GeoSharing/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Yama/GeoSharing/platforms/ios/build -DDEBUG --serialize-diagnostics /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch.d -c /Users/Yama/GeoSharing/platforms/ios/CordovaLib/CordovaLib_Prefix.pch -o /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fukjnnohrjeuvsfuamwbflvmcgxl/CordovaLib_Prefix.pch.pch36"A9AA6275-1E6A-47E2-9938-529FC07B9CDD-
+b790D5FF9-B638-4215-9FFA-E2444D4FF1EA
+
