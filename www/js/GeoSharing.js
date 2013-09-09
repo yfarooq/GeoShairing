@@ -4,6 +4,9 @@ function onDeviceReady() {
   // console.log("DEBUG: onDeviceReady called");
   try {
 	  console.log("Calling checkConnection from onDeviceReady");
+	  $.support.cors = true;
+	  $.mobile.allowCrossDomainPages = true;
+	  $.mobile.orientationChangeEnabled = true;
 	  checkConnection();
   } catch (error) {
     console.log("Failed during initalisation");
@@ -46,6 +49,8 @@ function deviceInfo(reschedule,connectionType) {
 	if (reschedule === true) {
 		console.log("there is internet = "+connectionType);
 		navigator.geolocation.getCurrentPosition(onSuccess, onError);
+		var options = { frequency: 3000 };
+        
 	}
 	if (reschedule === false) {
 		console.log("there is no internt = "+connectionType);
@@ -117,9 +122,9 @@ function uploadFile(mediaFile) {
     var ft = new FileTransfer(),
         path = mediaFile.fullPath,
         name = mediaFile.name;
-
+    	var date = new Date();
     ft.upload(path,
-        "http://my.domain.com/upload.php",
+        "http://184.169.176.223:8080/GeoSharing/mobile/secure/submission",
         function(result) {
             console.log('Upload success: ' + result.responseCode);
             console.log(result.bytesSent + ' bytes sent');
@@ -129,3 +134,32 @@ function uploadFile(mediaFile) {
         },
         { fileName: name });
 }
+
+//Upload files to server
+//function uploadFile(mediaFile) {
+//	console.log("DEBG: Loading uploadFile");
+//    var ft = new FileTransfer(),
+//        path = mediaFile.fullPath,
+//        name = mediaFile.name;
+//    	var date = new Date();
+//    	var jsonString = JSON.stringify({
+//    		"date" : date,
+//    		"file" : path,
+//    		"longitude" : info.longitude,
+//    		"latitude" : info.latitude
+//    	});
+//    ft.upload(jsonString,
+//        "http://184.169.176.223:8080/GeoSharing/home",
+//        function(result) {
+//            console.log('Upload success: ' + result.responseCode);
+//            console.log(result.bytesSent + ' bytes sent');
+//        },
+//        function(error) {
+//            console.log('Error uploading file ' + path + ': ' + error.code);
+//        },
+//        { fileName: name });
+//}
+
+
+
+
