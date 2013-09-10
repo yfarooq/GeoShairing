@@ -21,7 +21,9 @@
         
         
         <!-- GeoSharing library -->
+        <script src="js/jquery.base64.min.js"></script>
         <script src="js/GeoSharing.js"></script>
+        <script src="js/Database.js"></script>
         
         <!--- Register for Cordova/PhoneGap init complete -->
         <script type="text/javascript">
@@ -33,28 +35,114 @@
     <body onload="onLoad()">
 		<div data-role="page" id="home_pg" data-theme="b">
 		    <div data-role="header">
+		        <h3>Welcome</h3>
+		    </div>
+			<div data-role="content">
+				<div data-role="fieldcontain" class="login_class">
+		            <label for="login_email">
+		                Email:
+		            </label>
+			        <input name="login_email" id="login_email" placeholder="" value="yama.farooq@gmail.com" type="email">
+			    </div>
+		        <div data-role="fieldcontain" class="login_class">
+		            <label for="login_password">
+		                Password:
+		            </label>
+		            <input name="" id="login_password" placeholder="" value="123456" type="password">
+		        </div>
+			    <a id="Login_btn" data-role="button" data-theme="b" onclick="APP.geoFunctions.checkLogin();" href="#" data-icon="home" data-iconpos="right" class="login_class">
+			           Login
+			    </a>
+			    <a id="requesNew_btn" data-role="button" data-theme="b" href="#" data-icon="star" data-iconpos="right" class="login_class">
+			          Request new account
+			    </a>
+			</div>
+			<div data-role="footer" data-position="fixed">
+        		<h3>© GeoSharing</h3>
+    		</div>   
+    	</div>
+    	
+    	    	
+		<div data-role="page" id="upload_pg" data-theme="b">
+		    <div data-role="header">
 		        <h3>GeoSharing</h3>
 		    </div>
-		    <div data-role="content">
-		        <form method="POST" action="/GeoSharing/mobile/upload" enctype="multipart/form-data">
-		            <div data-role="fieldcontain">
-		                <label for="textinput1">
-		                    Describe photo
-		                </label>
-		                <input name="" id="discrib_ph" placeholder="" value="" type="text">
-		            </div>
-		            <div data-role="fieldcontain">
-		                <label for="textinput2">
+			<div data-role="content">
+			<form method="POST" action="http://184.169.176.223:8080/GeoSharing/mobile/secure/submission" enctype="multipart/form-data">
+		        <div data-role="fieldcontain" class="localimage">
+		            <label for="localimage">
+		                File
+		            </label>
+		            <input name="" id="localimage" placeholder="" value="" type="file">
+		        </div>
+		        <div data-role="fieldcontain" class="describe_photo">
+		            <label for="describe_photo">
+		                Describe Photo
+		            </label>
+		            <textarea name="describe_photo" id="describe_photo" placeholder=""></textarea>
+		        </div>
+		            <div data-role="fieldcontain" class="hashtag_upload">
+		                <label for="hashtag_upload">
 		                    Hashtag upload
 		                </label>
-		                <input name="" id="hanshtag_ph" placeholder="" value="" type="text">
+		                <input name="hashtag_upload" id="hashtag_upload" placeholder="" value=""
+		                type="text">
 		            </div>
-		             <button onclick="captureImage();">Capture  and Post Image</button>  
+		            <input name="latitude" id="latitude" placeholder="" value=""
+		                type="hidden">
+		                <input name="longitude" id="longitude" placeholder="" value=""
+		                type="hidden">
+		            <input type="submit" data-icon="grid" data-iconpos="right" value="Submit">
 		        </form>
-			</div>
+		    </div>
 			<div data-role="footer" data-position="fixed">
         		<h3>© RHamedy</h3>
     		</div>   
     	</div> 
+ 
+    	<div data-role="page" id="newAccount_pg" data-theme="b">
+		    <div data-role="header">
+		        <h3>GeoSharing</h3>
+		    </div>
+		    <div data-role="content">
+		      
+		            <div data-role="fieldcontain" class="request_class">
+		                <label for="request_email">
+		                    Username
+		                </label>
+		                <input name="request_email" id="request_email" placeholder="Valid email"
+		                value="" type="email">
+		            </div>
+		            <div data-role="fieldcontain" class="request_class">
+		                <label for="request_fristName">
+		                    First name
+		                </label>
+		                <input name="request_fristName" id="request_fristName" placeholder=""
+		                value="" type="text">
+		            </div>
+		            <div data-role="fieldcontain" class="request_class">
+		                <label for="request_lastName">
+		                    Last name
+		                </label>
+		                <input name="" id="request_lastName" placeholder="request_lastName" value=""
+		                type="text">
+		            </div>
+		            <div data-role="fieldcontain" class="request_class">
+		                <label for="request_screenName">
+		                    Screen name
+		                </label>
+		                <input name="request_screenName" id="request_screenName" placeholder=""
+		                value="" type="text">
+		            </div>
+		            <a data-role="button" data-theme="b" href="#page1" data-icon="home" data-iconpos="right"
+		            class="request_class">
+		                Send Request
+		            </a>
+		   
+		     </div>
+			<div data-role="footer" data-position="fixed">
+        		<h3>© RHamedy</h3>
+    		</div>   
+    	</div>
     </body>
 </html>

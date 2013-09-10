@@ -1,13 +1,10 @@
-var info = new Object();
+var user = new Object();
 function onDeviceReady() {
   console.log("onDeviceReady called");
   // console.log("DEBUG: onDeviceReady called");
   try {
-	  console.log("Calling checkConnection from onDeviceReady");
-	  $.support.cors = true;
-	  $.mobile.allowCrossDomainPages = true;
-	  $.mobile.orientationChangeEnabled = true;
-	  checkConnection();
+	  console.log("test "+device.platform);
+	  loadOrCreateDatabase();
   } catch (error) {
     console.log("Failed during initalisation");
     for (var x in error) {
@@ -17,7 +14,7 @@ function onDeviceReady() {
 }
 
 function checkConnection() {
-	console.log("DEBG: checkConnection started");
+	console.log("checking connnection type and if internet is there");
 	var conn = navigator.connection || navigator.network.connection;
 	var connectionType;
 	var reschedule = true;
@@ -35,130 +32,119 @@ function checkConnection() {
       connectionType = "None";
       reschedule = false;
   }
+    //TODO add a function to check the user internet conection, after every 2 min setTimeout
     console.log("there is no internt = "+connectionType);
-    deviceInfo(reschedule,connectionType);
-    
+    console.log("Calling addingValuesToUser");
+    addingValuesToUser(reschedule,connectionType);
 }
-
-
-function deviceInfo(reschedule,connectionType) {
-	console.log("DEBG: Loading deviceInfo");
-	info.devicePlatform = device.platform;
-	info.deviceUuid = device.uuid;
-	console.log(reschedule+"///////,///////"+connectionType);
-	if (reschedule === true) {
+function addingValuesToUser(reachable,connectionType) {
+	console.log("addingValuesToUser(reachable,connectionType) started");
+	user.DevicePlatform = device.platform;
+	user.DeviceUuid = device.uuid;
+	user.DeviceVersion = device.version;
+	if (reachable === true) {
 		console.log("there is internet = "+connectionType);
 		navigator.geolocation.getCurrentPosition(onSuccess, onError);
-		var options = { frequency: 3000 };
-        
 	}
-	if (reschedule === false) {
+	if (reachable === false) {
 		console.log("there is no internt = "+connectionType);
-		info.latitude = 0;
-		info.longitude = 0;
-		info.Timestamp = 0;
+		user.latitude = 0;
+		user.longitude = 0;
+		user.Timestamp = 0;		
+		setUserInterface();
 	}
-	
 	function onSuccess(position) {
 		console.log("onSuccess function loaded to get geolocation of the applicaion");
-		info.latitude = position.coords.latitude;
-		info.longitude = position.coords.longitude;
-		info.Timestamp = new Date(position.timestamp);
-		console.log("User device information is = " +JSON.stringify(info));
+		user.latitude = position.coords.latitude;
+		user.longitude = position.coords.longitude;
+		user.Timestamp = new Date(position.timestamp);
+		console.log("User device information is = " +JSON.stringify(user));
+		console.log("Time to call setUserInterface form onSuccess function");
+	    console.log("Calling loadDatabase from onSuccess checkConnection()");
+	    loadscreen();
 	}
-	
 	function onError(error) {
 		console.log("onError function loaded faild to get geolocation of the applicaion");
 	    console.log('code: '    + error.code    + '\n' +
 	          'message: ' + error.message + '\n');
 	    console.log("Time to call setUserInterface form onError function");
+	    console.log("Calling loadDatabase from check connection error");
+	    loadscreen();
 	}
-	
+}
+function loadscreen(){
+	console.log("DEBG: loadscreen");
+	$("#home_pg #Login_btn").on("click", function() {
+		console.log("user click login button");
+		user.Email = $("#home_pg #login_email").val();
+		user.Password = $("#home_pg #login_password").val();
+		$("#login_email").css("border", "");
+	    $("#login_password").css("border", "");
+	    if(user.Email.length<3) {
+	        navigator.notification.vibrate(2500);
+	        navigator.notification.alert('Please enter your Child Name', function() {},
+	            "Invalid Name", "OK");
+	        $("#login_email").css("border", "2px dotted red");
+	        return;
+	    }
+	    if(user.Password.length<3) {
+	        navigator.notification.vibrate(2500);
+	        navigator.notification.alert('Please enter your Child Date of Birth', function() {},
+	            "Invalid Date of Birth", "OK");
+	        $("#login_password").css("border", "2px dotted red");
+	        return;
+	    }
+	    checklogin();
+	});
+	$("#home_pg #requesNew_btn").on("click", function() {
+		console.log("user click login button");
+    	$.mobile.changePage( "#newAccount_pg", {
+    		transition: "none",
+    		reverse: false,
+    		changeHash: false
+    	});
+	});	
+}
+
+function checklogin(){
+	console.log("DEBG: checklogin is loadding");
+    $.mobile.changePage( "#upload_pg", {
+		transition: "none",
+		reverse: false,
+		changeHash: false
+	});
+    $("#latitude").val(user.latitude);
+    $("#longitude").val(user.longitude);
+    upload();
+}
+function upload(){
+	console.log("DEBG: Loading upload");
+	$('form').submit(function() {
+		console.log("DEBG: user click submit button in the page");
+	   var username = user.Email;
+	   var password = user.Password;
+	   var uploadinfo = $(this).serialize();
+	   console.log('datea: '+uploadinfo);
+	   $.ajax({
+		    type: 'POST', 
+		    data: uploadinfo, 
+		    url: 'http://184.169.176.223:8080/GeoSharing/mobile/secure/submission', 
+		    dataType: 'json', 
+		    beforeSend: function(xhr) {
+		     xhr.setRequestHeader("Authorization", "Basic " + $.base64.encode(username + ":" + password)); 
+		    }, 
+		    success: function(d) {
+		     console.log('successful!'); 
+		    }, 
+		    error: function(xhr, ajaxOptions, errorThrown) {
+		     console.log('failed!');
+		    }
+	   });
+	});
 }
 
 
-function captureSuccess(mediaFiles) {
-	console.log("DEBG: Loading captureSuccess");
-    var i, len;
-    for (i = 0, len = mediaFiles.length; i < len; i += 1) {
-        uploadFile(mediaFiles[i]);
-    }
-}
 
-// Called if something bad happens.
-//
-function captureError(error) {
-	console.log("DEBG: Loading captureError");
-    var msg = 'An error occurred during capture: ' + error.code;
-    navigator.notification.alert(msg, null, 'Uh oh!');
-}
-
-// A button will call this function
-//
-function captureImage() {
-	console.log("DEBG: Loading captureImage");
-    // Launch device camera application,
-    // allowing user to capture up to 2 images
-	info.describ = $("#home_pg #discrib_ph").val();
-	info.hanshtag = $("#home_pg #hanshtag_ph").val();
-	console.log("d"+info.describ);
-	if(info.describ.length === 0) {
-		navigator.notification.vibrate(2500);
-		navigator.notification.alert("Please enter photo description", function() {},
-		"Invalid Description", "OK");
-		$("#discrib_ph").css("border", "2px dotted red");
-		return;
-	}
-	if(info.hanshtag.length === 0) {
-		info.hanshtag = "";
-	}
-	
-    navigator.device.capture.captureImage(captureSuccess, captureError, {limit: 2});
-}
-
-// Upload files to server
-function uploadFile(mediaFile) {
-	console.log("DEBG: Loading uploadFile");
-    var ft = new FileTransfer(),
-        path = mediaFile.fullPath,
-        name = mediaFile.name;
-    	var date = new Date();
-    ft.upload(path,
-        "http://184.169.176.223:8080/GeoSharing/mobile/secure/submission",
-        function(result) {
-            console.log('Upload success: ' + result.responseCode);
-            console.log(result.bytesSent + ' bytes sent');
-        },
-        function(error) {
-            console.log('Error uploading file ' + path + ': ' + error.code);
-        },
-        { fileName: name });
-}
-
-//Upload files to server
-//function uploadFile(mediaFile) {
-//	console.log("DEBG: Loading uploadFile");
-//    var ft = new FileTransfer(),
-//        path = mediaFile.fullPath,
-//        name = mediaFile.name;
-//    	var date = new Date();
-//    	var jsonString = JSON.stringify({
-//    		"date" : date,
-//    		"file" : path,
-//    		"longitude" : info.longitude,
-//    		"latitude" : info.latitude
-//    	});
-//    ft.upload(jsonString,
-//        "http://184.169.176.223:8080/GeoSharing/home",
-//        function(result) {
-//            console.log('Upload success: ' + result.responseCode);
-//            console.log(result.bytesSent + ' bytes sent');
-//        },
-//        function(error) {
-//            console.log('Error uploading file ' + path + ': ' + error.code);
-//        },
-//        { fileName: name });
-//}
 
 
 
